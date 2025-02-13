@@ -99,6 +99,18 @@
           }
         }
       }
+    },
+    "profile": {
+      "root": "projects/profile",
+      "sourceRoot": "projects/profile/src",
+      "projectType": "library",
+      "architect": {}
+    },
+    "workflow": {
+      "root": "projects/workflow",
+      "sourceRoot": "projects/workflow/src",
+      "projectType": "library",
+      "architect": {}
     }
   }
 }
